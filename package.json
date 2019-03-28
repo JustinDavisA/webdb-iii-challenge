@@ -1,0 +1,11 @@
+{
+  "name": "webdb-iii-challenge",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/JustinDavisA/webdb-iii-challenge.git",
+  "author": "justindavisa <justindavisa@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "nodemon": "^1.18.10"
+  }
+}
